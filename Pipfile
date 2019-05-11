@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-admin = "*"
+flask-migrate = "*"
+flask-script = "*"
+flask-sqlalchemy = "*"
+flask-mignstall = "*"
+gevent = "*"
+numpy = "*"
+requests = "*"
+rasa-nlu = "*"
+spacy = "*"
+sklearn = "*"
+sklearn-crfsuite = "*"
+
+[requires]
+python_version = "3.7"
